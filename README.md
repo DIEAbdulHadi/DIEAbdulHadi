@@ -164,8 +164,8 @@ Born: 2024
 Purpose: A self-evolving, untouchable presence.
 
 
-7. NebuloViz: The Showcase of Knowledge
-8. 
+6. NebuloViz: The Showcase of Knowledge
+
 Born: 2024
 
 Purpose: Advanced analytics, visualization, and architecture.
