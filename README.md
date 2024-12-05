@@ -59,13 +59,6 @@
 </div>
 
 
-###
-
-<img src="https://raw.githubusercontent.com/DIEAbdulHadi/DIEAbdulHadi/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 <br clear="both">
 
 <div align="center">
