@@ -84,11 +84,15 @@
   <img src="https://streak-stats.demolab.com?user=DIEAbdulHadi&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+
 ###
 
-<div align="left">
+
+<div align="center">
   <img height="200" src="https://i.gifer.com/7zoU.gif"  />
-</div>                                                                                  
+</div>            
+
+
 ###
 
 
