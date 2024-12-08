@@ -88,11 +88,9 @@
 
 <div align="left">
   <img height="200" src="https://i.gifer.com/7zoU.gif"  />
-</div>
-
-<div align="right">
-  <img height="200" src="https://i.gifer.com/7zoU.gif"  />
-</div>
+</div>                                                                                                                         <div align="right">
+                                                                                                                              <img height="200" src="https://i.gifer.com/7zoU.gif"  />
+                                                                                                                                </div>
 
 ###
 
